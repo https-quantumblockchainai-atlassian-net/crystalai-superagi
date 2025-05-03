@@ -147,7 +147,7 @@ pylint==2.17.4
 pre-commit==3.3.3
 pytest-cov==4.1.0
 pytest-mock==3.11.1
-transformers==4.30.2
+transformers==4.50.0
 pypdf==3.11.0
 python-pptx==0.6.21
 Pillow==9.5.0
@@ -159,3 +159,4 @@ unstructured==0.8.1
 ai21==1.2.6
 typing-extensions==4.5.0
 llama_cpp_python==0.2.7
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
