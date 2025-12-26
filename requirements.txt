@@ -71,7 +71,7 @@ loguru==0.7.0
 lxml==4.9.2
 Mako==1.2.4
 MarkupSafe==2.1.2
-marshmallow==3.19.0
+marshmallow==3.26.2
 marshmallow-enum==1.5.1
 multidict==6.0.4
 mypy-extensions==1.0.0
